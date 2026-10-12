@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt the TechSparks 2026 homepage as a local static page that keeps the live layout, copy, media, agenda filters, speaker expand, and ticket dialog. Display type is now Cormorant Garamond and interface type is Instrument Sans, matching the existing portfolio pairing. The site is served at http://127.0.0.1:4173/ and still loads images and video from the TechSparks CDN.",
+  "current_status": "Local TechSparks 2026 rebuild is in index.html and site.js. Hero, theme, and day-two agenda filtering were checked in the browser. Next step is any font or section tweak the user wants after reviewing localhost."
+}
